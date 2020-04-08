@@ -1,0 +1,8 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+[[mods]]
+modId="valuemodify"
+version="1.0"
+displayName="ValueModify"
+credits=""
+description="Makes you able to modify values."
